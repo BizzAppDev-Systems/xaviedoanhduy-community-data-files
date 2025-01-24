@@ -38,8 +38,8 @@ Adds a few utility models and records to the l10n_eu_product_adr module.
 Known issues / Roadmap
 ======================
 
--  rename models, prefix them with adr. as it is done in
-   l10n_eu_product_adr
+- rename models, prefix them with adr. as it is done in
+  l10n_eu_product_adr
 
 Bug Tracker
 ===========
@@ -62,8 +62,8 @@ Authors
 Contributors
 ------------
 
--  Matthieu Méquignon <matthieu.mequignon@camptocamp.com>
--  Do Anh Duy <duyda@trobz.com>
+- Matthieu Méquignon <matthieu.mequignon@camptocamp.com>
+- Do Anh Duy <duyda@trobz.com>
 
 Other credits
 -------------
